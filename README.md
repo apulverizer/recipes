@@ -2,6 +2,8 @@
 
 A Jekyll based repo of our favorite recipes.
 
+See it live [here](https://apulverizer.github.io/recipes).
+
 ### Running locally
 
 This is a Jekyll build. Make sure you have Jekyll [installed](https://jekyllrb.com/). To install, run this command in the terminal (or iTerm, etc):
