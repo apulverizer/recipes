@@ -1,0 +1,19 @@
+# Site settings
+title: Pulver Recipes
+email: apulverizer@gmail.com
+description: A list of recipes
+baseurl: ""
+github_username:  apulverizer
+
+# Build settings
+markdown: kramdown
+
+permalink: /:title:output_ext
+
+collections:
+  components:
+    output: true
+  recipes:
+    output: true
+
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']

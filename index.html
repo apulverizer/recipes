@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="home"> 
+  <div class="search-bar">
+      <div class="search container xs-px1 xs-mt2 flex justify-content-center">
+          <div id="search-container">
+            <input type="text" id="search-input" placeholder="filter titles, ingredients, or tags...">
+          </div>
+      </div>
+  </div>
+  
+  <div class="recipes mt5 xs-px1 flex justify-content-center">
+    <div class="clearfix center">
+      <div class="recipes xs-px1 xs-mt2 center" id="results-container"></div>
+      <div class="recipes xs-px1 xs-mt2 center" id="all-container">
+      {% assign sorted = site.recipes | sort:"title" %}
+      {% for post in sorted %}
+        <div class="mb2 center">
+          <a class="block relative" href="{{ post.url | prepend: site.baseurl }}">
+            <div> {{post.title}}</div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/plugins/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '{{site.baseurl}}/search.json',
+  searchResultTemplate: '<div class="mb2"><a class="block relative" href="{url}"><div class="center"> {title}</div></a></div>'
+})
+</script>
+
+<script>
+	$( document ).ready(function() {
+    $('#search-input').on('input', function() {
+      var element = $('#search-input');
+      if (element.val()) {
+        $('#all-container').addClass('hide');
+      } else {
+        $('#all-container').removeClass('hide');
+      }
+	});
+	});
+	
+</script>
