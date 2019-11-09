@@ -4,6 +4,7 @@ layout: recipe
 title:  "Monkey Bread"
 tags: 
 - baking
+- vegetarian
 category: breakfast
 
 ingredients:

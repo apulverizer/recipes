@@ -4,6 +4,7 @@ layout: recipe
 title:  "Streusel Topping"
 tags: 
 - baking
+- vegetarian
 category: topping
 
 ingredients:

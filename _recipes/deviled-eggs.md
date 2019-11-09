@@ -5,6 +5,7 @@ title:  "Deviled Eggs"
 tags: 
 - cooking
 - finger food
+- vegetarian
 category: appetizer
 
 ingredients:

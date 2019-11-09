@@ -4,6 +4,7 @@ layout: recipe
 title:  "Mango, Peach & Pineapple Salsa"
 tags: 
 - dip
+- vegetarian
 category: appetizer
 
 ingredients:

@@ -4,6 +4,7 @@ layout: recipe
 title:  "Cinnamon Rolls"
 tags: 
 - baking
+- vegetarian
 category: breakfast
 
 components:

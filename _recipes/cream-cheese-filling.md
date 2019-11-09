@@ -5,6 +5,7 @@ title:  "Cream Cheese Frosting"
 tags: 
 - baking
 - frosting
+- vegetarian
 category: topping
 
 ingredients:

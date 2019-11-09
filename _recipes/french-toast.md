@@ -4,6 +4,7 @@ layout: recipe
 title:  "French Toast"
 tags: 
 - baking
+- vegetarian
 category: breakfast
 
 ingredients:

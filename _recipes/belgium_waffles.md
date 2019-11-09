@@ -4,6 +4,7 @@ layout: recipe
 title:  "Belguim Waffles"
 tags: 
 - baking
+- vegetarian
 category: breakfast
 
 ingredients:
