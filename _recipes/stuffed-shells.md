@@ -4,6 +4,7 @@ layout: recipe
 title:  "Stuffed Shells"
 tags: 
 - cooking
+- vegetarian
 category: dinner
 
 ingredients:
