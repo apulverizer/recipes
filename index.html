@@ -17,7 +17,7 @@ layout: default
       <div class="recipes xs-px1 xs-mt2 center" id="all-container">
       {% assign sorted = site.recipes | sort:"title" %}
       {% for post in sorted %}
-        <div class="mb2 center">
+        <div class="mb2 center {% if post.showInSimplified != true %} not-simplified {% endif %}">
           <a class="block relative" href="{{ post.url | prepend: site.baseurl }}">
             <div> {{post.title}}</div>
           </a>
@@ -32,18 +32,34 @@ layout: default
 
 <!-- Configuration -->
 <script>
+
+window.addEventListener('load', function () {
+
+// set simplified query param on all links
+const urlParams = new URLSearchParams(window.location.search);
+const simplified = urlParams.get('simplified') == 'true';
+// json config for simple search
+let json = '{{site.baseurl}}/search.json'
+if (simplified) {
+  json = '{{site.baseurl}}/search-simplified.json'
+  // if there is a simplified query param, then hide others
+  $('.not-simplified').each(function(index){
+    $(this).addClass('hide');
+  })
+  $('a').each(function(index){
+    $(this).attr('href', $(this).attr('href') + "?simplified=true");
+  })
+}
+
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '{{site.baseurl}}/search.json',
+  json: json,
   limit: 1000,
   searchResultTemplate: '<div class="mb2"><a class="block relative" href="{url}"><div class="center"> {title}</div></a></div>'
-})
-</script>
+});
 
-<script>
-	$( document ).ready(function() {
-    $('#search-input').on('input', function() {
+$('#search-input').on('input', function() {
       var element = $('#search-input');
       if (element.val()) {
         $('#all-container').addClass('hide');
@@ -51,6 +67,8 @@ SimpleJekyllSearch({
         $('#all-container').removeClass('hide');
       }
 	});
-	});
-	
+
+
+})
+
 </script>

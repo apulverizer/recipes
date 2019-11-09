@@ -6,6 +6,7 @@ tags:
 - cooking
 - vegetarian
 category: side
+showInSimplified: true
 
 ingredients:
 - cooking spray

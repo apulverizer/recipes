@@ -7,6 +7,7 @@ tags:
 - cooking
 - vegetarian
 category: dinner
+showInSimplified: true
 
 ingredients:
 - 2/3 cup butter

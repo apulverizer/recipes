@@ -6,6 +6,7 @@ tags:
 - baking
 - vegetarian
 category: breakfast
+showInSimplified: true
 
 components:
 - Streusel Topping
