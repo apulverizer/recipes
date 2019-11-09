@@ -4,6 +4,7 @@ layout: recipe
 title:  "Deviled Eggs"
 tags: 
 - cooking
+- finger food
 category: appetizer
 
 ingredients:

@@ -4,6 +4,7 @@ layout: recipe
 title:  "Chicken Wing Dip"
 tags: 
 - cooking
+- dip
 category: appetizer
 
 ingredients:

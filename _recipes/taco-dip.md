@@ -16,7 +16,6 @@ ingredients:
 - 1 tomato, diced
 - 1/4 cupped canned chopped green chilies
 
-
 directions:
 - In a mixing bowl, beat the cream cheese and sour cream until smooth. 
 - Stir in taco seasoning and set aside. 
