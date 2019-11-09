@@ -4,6 +4,7 @@ layout: recipe
 title:  "Crepes"
 tags: 
 - baking
+- vegetarian
 category: breakfast
 
 ingredients:

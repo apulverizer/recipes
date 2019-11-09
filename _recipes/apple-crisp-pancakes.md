@@ -4,6 +4,7 @@ layout: recipe
 title:  "Apple Crisp Pancakes"
 tags: 
 - baking
+- vegetarian
 category: breakfast
 
 components:

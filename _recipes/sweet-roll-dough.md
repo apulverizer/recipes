@@ -5,6 +5,7 @@ title:  "Sweet Roll Dough"
 tags: 
 - baking
 - bread
+- vegetarian
 category: topping
 
 ingredients:

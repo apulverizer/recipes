@@ -4,6 +4,7 @@ layout: recipe
 title:  "Mango Salsa"
 tags: 
 - dip
+- vegetarian
 category: appetizer
 
 ingredients:

@@ -4,6 +4,7 @@ layout: recipe
 title:  "Spinich Artichoke Dip"
 tags: 
 - dip
+- vegetarian
 category: appetizer
 
 ingredients:

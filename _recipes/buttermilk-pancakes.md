@@ -4,6 +4,7 @@ layout: recipe
 title:  "Buttermilk Pancakes"
 tags: 
 - baking
+- vegetarian
 category: breakfast
 
 ingredients:

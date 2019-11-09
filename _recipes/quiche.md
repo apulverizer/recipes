@@ -4,6 +4,7 @@ layout: recipe
 title:  "Quiche"
 tags: 
 - baking
+- vegetarian
 category: breakfast
 
 ingredients:

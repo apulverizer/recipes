@@ -4,6 +4,7 @@ layout: recipe
 title:  "Taco Dip"
 tags: 
 - dip
+- vegetarian
 category: appetizer
 
 ingredients:
