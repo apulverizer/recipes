@@ -36,6 +36,7 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '{{site.baseurl}}/search.json',
+  limit: 1000,
   searchResultTemplate: '<div class="mb2"><a class="block relative" href="{url}"><div class="center"> {title}</div></a></div>'
 })
 </script>
