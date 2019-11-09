@@ -6,6 +6,7 @@ tags:
 - cooking
 - vegetarian
 category: dinner
+showInSimplified: true
 
 ingredients:
 - 2 1/4 cups uncooked elbow macaroni
