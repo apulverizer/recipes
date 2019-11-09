@@ -14,7 +14,6 @@ ingredients:
 - salt and pepper
 - 2 Tbsp butter
 
-
 directions:
 - Peel and boil potatoes until soft, about 45 minutes. 
 - In large mixing bowl, combine sour cream and cream cheese. 

@@ -17,7 +17,6 @@ ingredients:
 - 4 cups flour
 - 2 tsp yeast
 
-
 directions:
 - Combine all ingredients, in bread mixer if you have one and set it to the dough cycle, and mix until dough forms. 
 - Knead dough on lightly floured surface. 

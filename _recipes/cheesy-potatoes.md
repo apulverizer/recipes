@@ -15,7 +15,6 @@ ingredients:
 - 2 sticks butter, melted
 - 3 cups crushed corn flakes
 
-
 directions:
 - Heat oven to 350˚. 
 - Melt 1 stick of butter and pour over frozen hash browns in a 10x14” pan. 

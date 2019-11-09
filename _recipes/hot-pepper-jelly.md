@@ -15,7 +15,6 @@ ingredients:
 - 1.75oz package of pectin
 - 5 cups white sugar
 
-
 directions:
 - Sterilize 6 (8oz) canning jars and lids. 
 - Place peppers in a large saucepan over high heat. 

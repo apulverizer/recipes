@@ -18,7 +18,6 @@ ingredients:
 - 3 lbs potatoes, cooked, peeled, and cubed (about 3 cups)
 - 1 cups sliced celery
 
-
 directions:
 - In a large bowl stir mayo, onion, vinegar, salt, pepper, and eggs. 
 - Add potatoes and celery; toss to coat. 
