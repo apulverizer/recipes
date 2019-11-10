@@ -5,7 +5,7 @@ title:  "Eggplant 'Meatballs'"
 tags: 
 - cooking
 - vegetarian
-category: side
+category: dinner
 showInSimplified: true
 
 ingredients:
