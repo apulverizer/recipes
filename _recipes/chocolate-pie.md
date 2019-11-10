@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Chocolate Ganache"
+title:  "Chocolate Pie"
 tags: 
 - baking
 - vegetarian
