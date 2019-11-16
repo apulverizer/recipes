@@ -5,7 +5,7 @@ title:  "Strawberry Muffins"
 tags: 
 - baking
 - vegetarian
-category: dessert
+category: breakfast
 
 ingredients:
 - 1 cup sliced strawberries

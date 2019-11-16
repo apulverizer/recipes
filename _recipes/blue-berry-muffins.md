@@ -5,7 +5,7 @@ title:  "Blueberry Muffins"
 tags: 
 - baking
 - vegetarian
-category: dessert
+category: breakfast
 
 ingredients:
 - 1 egg

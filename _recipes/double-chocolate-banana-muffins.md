@@ -5,7 +5,7 @@ title:  "Double Chocolate Banana Muffins"
 tags: 
 - baking
 - vegetarian
-category: dessert
+category: breakfast
 
 ingredients:
 - 1 1/2 cups flour
