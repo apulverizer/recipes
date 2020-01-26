@@ -27,4 +27,4 @@ directions:
 
 ---
 
-Simple apple crisp pancakes from scratch
+Large cinnamon rolls with cream cheese frosting
