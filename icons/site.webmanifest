@@ -15,5 +15,6 @@
     ],
     "theme_color": "#007fff",
     "background_color": "#007fff",
+    "start_url": "https://apulverizer.github.io/recipes",
     "display": "standalone"
 }
