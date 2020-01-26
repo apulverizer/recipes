@@ -9,7 +9,7 @@ category: dinner
 ingredients:
 - 2-10oz pkgs frozen broccoli
 - 2 cups sliced cooked chicken
-- 2 cans cream of chicken soup
+- 2 cans cream of chicken or mushroom soup
 - 1 cup mayonnaise
 - 1 tsp lemon juice
 - 1/2 tsp curry powder
