@@ -6,7 +6,7 @@ tags:
 - cooking
 - vegetarian
 category: dinner
-showInSimplified: true
+
 
 ingredients:
 - cooking spray

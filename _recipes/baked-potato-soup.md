@@ -7,15 +7,15 @@ tags:
 - cooking
 - vegetarian
 category: dinner
-showInSimplified: true
 
 ingredients:
 - 2/3 cup butter
 - 2/3 cup flour
 - 7 cups milk
 - 4 large baking potatoes, baked, cooled, and cubed
-- 4 green onions, sliced
+- 4 green onions, sliced (can substitute with 1/2 cup of chopped onion)
 - (optional) 12 bacon strips, cooked and crumbled
+- (optional) 1/2 cup shredded carrots
 - 1 1/4 cup shredded cheddar
 - 1 cup sour cream
 - 3/4 tsp salt

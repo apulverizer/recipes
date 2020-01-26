@@ -6,7 +6,7 @@ tags:
 - baking
 - vegetarian
 category: breakfast
-showInSimplified: true
+
 
 ingredients:
 - 1 1/2 cups all-purpose flour

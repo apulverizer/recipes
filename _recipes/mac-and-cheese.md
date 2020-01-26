@@ -6,13 +6,13 @@ tags:
 - cooking
 - vegetarian
 category: dinner
-showInSimplified: true
+
 
 ingredients:
 - 2 1/4 cups uncooked elbow macaroni
 - 6 Tbsp butter, divided
 - 4 1/2 Tbsp flour
-- 1 1/4 cups milk
+- 2 1/4 cups milk
 - 1 1/2 cups shredded cheddar
 - 3oz American cheese, cubed
 - 3/4 tsp salt

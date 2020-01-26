@@ -6,7 +6,7 @@ tags:
 - baking
 - vegetarian
 category: topping
-showInSimplified: true
+
 
 ingredients:
 - 1/4 cup plus 2 Tbsp brown sugar

@@ -107,19 +107,7 @@ layout: default
 
   $( document ).ready(function() {
   
-  // set simplified query param on all links
-  const urlParams = new URLSearchParams(window.location.search);
-  const simplified = urlParams.get('simplified') == 'true';
   let json = '{{site.baseurl}}/search.json'
-  if (simplified) {
-    json = '{{site.baseurl}}/search-simplified.json'
-    $('.not-simplified').each(function(index){
-      $(this).addClass('hide');
-    })
-    $('a').each(function(index){
-      $(this).attr('href', $(this).attr('href') + "?simplified=true");
-    })
-  }
 
   jQuery.fn.clickToggle = function(a,b) {
   var ab=[b,a];

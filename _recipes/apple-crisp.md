@@ -6,7 +6,7 @@ tags:
 - baking
 - vegetarian
 category: dessert
-showInSimplified: true
+
 
 ingredients:
 - 6 apples (Cortland, Granny Smith, or Honey Crisp)

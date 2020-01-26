@@ -6,7 +6,7 @@ tags:
 - baking
 - vegetarian
 category: dessert
-showInSimplified: true
+
 
 ingredients:
 - 1/2 cup butter
