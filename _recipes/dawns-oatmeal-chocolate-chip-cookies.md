@@ -13,10 +13,11 @@ ingredients:
 - 1 cup packed light brown sugar
 - 1/2 cup white sugar 
 - 2 eggs
-- 2 teaspoons vanilla extract 
+- 2 tsp vanilla extract 
 - 1 1/4 cups all-purpose flour 
-- 1/2 teaspoon baking soda 
-- 1 teaspoon salt 
+- 1/2 tsp baking soda 
+- 1 tsp salt 
+- 2 tsp cinnamon 
 - 3 cups quick-cooking oats 
 - 1 cup semisweet chocolate chips
 
