@@ -21,14 +21,10 @@ self.addEventListener('activate', event => {
   console.log('Service worker activate event!');
 });
 
-self.addEventListener('fetch', event => {
-  console.log('Fetch intercepted for:', event.request.url);
-  event.respondWith(caches.match(event.request)
-    .then(cachedResponse => {
-        if (cachedResponse) {
-          return cachedResponse;
-        }
-        return fetch(event.request);
-      })
-    );
+self.addEventListener('fetch', function(event) {
+  event.respondWith(
+    fetch(event.request).catch(function() {
+      return caches.match(event.request);
+    })
+  );
 });
