@@ -14,7 +14,6 @@ ingredients:
 - 2 tsp active dry yeast
 - 1 3/8 cup water
 - 3 Tbsp olive or vegetable oil
-- 1/4 tsp salt
 - (optional) cloves of minced garlic
 
 directions:
