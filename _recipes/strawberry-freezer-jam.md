@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Stawberry Freezer Jam"
+title:  "Strawberry Freezer Jam"
 tags: 
 - cooking
 category: side
