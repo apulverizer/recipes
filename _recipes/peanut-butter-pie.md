@@ -12,7 +12,7 @@ ingredients:
 - 1/3 cup sugar (crust)
 - 4 Tbsp butter, melted (crust)
 - 12oz cream cheese, softened (filling)
-- 1 ½ cup peanut butter, crunchy (filling)
+- 1 ½ cup peanut butter, creamy (filling)
 - 1 ½ cup sugar (filling)
 - 1 cup heavy cream (filling)
 - 2oz unsweetened chocolate (icing)
