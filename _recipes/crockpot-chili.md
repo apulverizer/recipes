@@ -23,7 +23,7 @@ ingredients:
 
 
 directions:
-- Cook and stir beff, onion, pepper, and garlic in skillet until browned. Transfer to crockpot.
+- Cook and stir beef, onion, pepper, and garlic in skillet until browned. Transfer to crockpot.
 - Add all other ingredients
 - Cook on Low for 8-10 hours or high for 4-5 hours
 
