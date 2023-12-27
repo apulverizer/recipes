@@ -22,7 +22,7 @@ directions:
 - Knead dough on lightly floured surface. 
 - Roll out into 2 rough circle and cut into wedges. 
 - Roll up starting from the wide end and place on a greased baking sheet. 
-- Cover with a kitchen towel and let rise for 1 hour. 
+- Cover with a kitchen towel and let rise for 2 hours. 
 - Heat oven to 350˚. 
 - Bake for 8-10 minutes or golden brown. Brush with butter after removing from oven.
 
